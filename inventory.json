@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Chevrolet Buick Gmc Merritt",
-  "generated_at": "2026-09-25T15:37:18",
+  "generated_at": "2026-09-26T15:24:32",
   "vehicle_count": 86,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13,7 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/0f89f5d68f93.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2015-GMC-Sierra_3500HD-Denali_%2ADIESEL_%7C_ACCIDENT_FREE%2A-1GT424E89FF527994/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2015-GMC-Sierra_3500HD-Denali_%2ADIESEL_%7C_ACCIDENT_FREE%2A-1GT424E89FF527994/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:18:20",
+      "last_verified": "2026-09-26T15:22:02",
       "condition": "used"
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/5fd2c6cd3544.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2015-GMC-Sierra_3500HD-Denali_*DIESEL_|_ACCIDENT_FREE*-1GT424E89FF527994/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2015-GMC-Sierra_3500HD-Denali_*DIESEL_|_ACCIDENT_FREE*-1GT424E89FF527994/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:18:31",
+      "last_verified": "2026-09-26T15:22:13",
       "condition": "used"
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/b4dec73f9a5a.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2016-Mazda-CX--5-GT-JM3KE4DY9G0785072/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2016-Mazda-CX--5-GT-JM3KE4DY9G0785072/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:18:39",
+      "last_verified": "2026-09-26T15:22:25",
       "condition": "used"
     },
     {
@@ -46,18 +46,18 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/09695e794415.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2017-Buick-Enclave-Premium-5GAKVCKD8HJ197535/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2017-Buick-Enclave-Premium-5GAKVCKD8HJ197535/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:18:49",
+      "last_verified": "2026-09-26T15:22:36",
       "condition": "used"
     },
     {
       "name": "Used2018JeepCompass4WDAltitude",
       "vin": "3C4NJDBB0JT454178",
-      "stock": "BUICK",
+      "stock": "Z2067",
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/1488aedad197.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2018-Jeep-Compass-Altitude-3C4NJDBB0JT454178/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2018-Jeep-Compass-Altitude-3C4NJDBB0JT454178/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:01",
+      "last_verified": "2026-09-26T15:22:45",
       "condition": "used"
     },
     {
@@ -68,7 +68,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/9967c3a52624.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2019-Buick-Encore-Sport_Touring_%2AAWD_%7C_ONE_LOCAL_OWNER_%7C_LOW_KMS%2A-KL4CJ2SB4KB904987/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2019-Buick-Encore-Sport_Touring_%2AAWD_%7C_ONE_LOCAL_OWNER_%7C_LOW_KMS%2A-KL4CJ2SB4KB904987/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:14",
+      "last_verified": "2026-09-26T15:22:56",
       "condition": "used"
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/0bbb7ea67720.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2019-Buick-Encore-Sport_Touring_*AWD_|_ONE_LOCAL_OWNER_|_LOW_KMS*-KL4CJ2SB4KB904987/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2019-Buick-Encore-Sport_Touring_*AWD_|_ONE_LOCAL_OWNER_|_LOW_KMS*-KL4CJ2SB4KB904987/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:25",
+      "last_verified": "2026-09-26T15:23:06",
       "condition": "used"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/6e617c521b8c.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2020-Nissan-Kicks-SV-3N1CP5CV2LL500197/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2020-Nissan-Kicks-SV-3N1CP5CV2LL500197/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:34",
+      "last_verified": "2026-09-26T15:23:16",
       "condition": "used"
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/0b71e905f68c.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Ford-F--150-XLT_%2AV8_%7C_ACCIDENT_FREE%2A-1FTFW1E55MKE59733/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Ford-F--150-XLT_%2AV8_%7C_ACCIDENT_FREE%2A-1FTFW1E55MKE59733/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:50",
+      "last_verified": "2026-09-26T15:23:29",
       "condition": "used"
     },
     {
@@ -112,7 +112,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/5b59801cd8c9.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Ford-F--150-XLT_*V8_|_ACCIDENT_FREE*-1FTFW1E55MKE59733/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Ford-F--150-XLT_*V8_|_ACCIDENT_FREE*-1FTFW1E55MKE59733/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:20:02",
+      "last_verified": "2026-09-26T15:23:39",
       "condition": "used"
     },
     {
@@ -123,7 +123,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/ef3326c0b050.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Honda-Pilot-EX--L_Navi_%2ANO_ACCIDENTS_%7C_WINTER_TIRES%2A-5FNYF6H71MB503033/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Honda-Pilot-EX--L_Navi_%2ANO_ACCIDENTS_%7C_WINTER_TIRES%2A-5FNYF6H71MB503033/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:20:11",
+      "last_verified": "2026-09-26T15:23:46",
       "condition": "used"
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/20a4bcfa81d3.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Honda-Pilot-EX--L_Navi_*NO_ACCIDENTS_|_WINTER_TIRES*-5FNYF6H71MB503033/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2021-Honda-Pilot-EX--L_Navi_*NO_ACCIDENTS_|_WINTER_TIRES*-5FNYF6H71MB503033/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:20:23",
+      "last_verified": "2026-09-26T15:23:56",
       "condition": "used"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/d845f87ad446.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Chevrolet-Silverado_1500-Custom-3GCPDBEKXPG134559/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Chevrolet-Silverado_1500-Custom-3GCPDBEKXPG134559/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:20:34",
+      "last_verified": "2026-09-26T15:24:07",
       "condition": "used"
     },
     {
@@ -155,17 +155,17 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/d700fae1ca81.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_%2ADIESEL_DUALLY%2A-3C63RRJLXPG645008/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_%2ADIESEL_DUALLY%2A-3C63RRJLXPG645008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:20:41",
+      "last_verified": "2026-09-26T15:24:17",
       "condition": "used"
     },
     {
       "name": "Used2023Ram35004WDLaramie *DIESEL DUALLY*",
       "vin": "3C63RRJLXPG645008",
-      "stock": "Z2072",
+      "stock": "BUICK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/9021861ab790.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_*DIESEL_DUALLY*-3C63RRJLXPG645008/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_*DIESEL_DUALLY*-3C63RRJLXPG645008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:20:47",
+      "last_verified": "2026-09-26T15:24:27",
       "condition": "used"
     },
     {
