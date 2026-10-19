@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Chevrolet Buick Gmc Merritt",
-  "generated_at": "2026-10-19T04:13:33",
-  "vehicle_count": 76,
+  "generated_at": "2026-10-19T04:19:01",
+  "vehicle_count": 75,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -184,19 +184,6 @@
       "province": "BC"
     },
     {
-      "name": "New2023Ram35004WDBig Horn",
-      "vin": "3C63R3HL4PG602223",
-      "stock": "BUICK",
-      "color": "Bright White",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/81d8f962e67f.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2023-Ram-3500-Big_Horn-3C63R3HL4PG602223/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2023-Ram-3500-Big_Horn-3C63R3HL4PG602223/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:37:50",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
-    },
-    {
       "name": "New2026BuickEnclaveAWDPreferred",
       "vin": "5GAEVAKS0TJ372871",
       "stock": "BUICK",
@@ -256,7 +243,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a0bf0942921f.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK7T1331380/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK7T1331380/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:04",
+      "last_verified": "2026-10-19T04:17:43",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -269,7 +256,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/6dd1b8b091bf.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_%2ADEMO%2A-1GCPTDEK2T1234114/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_%2ADEMO%2A-1GCPTDEK2T1234114/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:39:45",
+      "last_verified": "2026-10-19T04:16:28",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -282,7 +269,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/f3ad26a1f69e.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_*DEMO*-1GCPTDEK2T1234114/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_*DEMO*-1GCPTDEK2T1234114/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:39:56",
+      "last_verified": "2026-10-19T04:16:40",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -295,7 +282,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/09d007927b93.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Equinox-AWD_LT-3GNAXPEG5TL519431/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Equinox-AWD_LT-3GNAXPEG5TL519431/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:40:07",
+      "last_verified": "2026-10-19T04:16:49",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -308,7 +295,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/7be14ac17a80.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK2TG453678/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK2TG453678/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:40:17",
+      "last_verified": "2026-10-19T04:17:00",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -321,7 +308,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/765ec6920d1a.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK9TG372886/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK9TG372886/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:40:28",
+      "last_verified": "2026-10-19T04:17:12",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -334,7 +321,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/d5b799d08c6e.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE80TG474025/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE80TG474025/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:40:35",
+      "last_verified": "2026-10-19T04:17:21",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -347,7 +334,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/78d92704c58f.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCED1TG318122/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCED1TG318122/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:40:57",
+      "last_verified": "2026-10-19T04:17:31",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -360,7 +347,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/1e13b217f458.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-LT-1GCUKDED7TZ445561/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-LT-1GCUKDED7TZ445561/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:42:08",
+      "last_verified": "2026-10-19T04:18:57",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -542,7 +529,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/9d7d08b93373.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Canyon-Denali-1GTP2FEK4T1333919/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Canyon-Denali-1GTP2FEK4T1333919/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:11",
+      "last_verified": "2026-10-19T04:17:55",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -750,7 +737,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/18faf5bad7ee.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG0TL508982/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG0TL508982/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:18",
+      "last_verified": "2026-10-19T04:18:06",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -854,7 +841,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/452ddbba3898.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG1VL227237/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG1VL227237/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:28",
+      "last_verified": "2026-10-19T04:18:15",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -867,7 +854,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/353281f3354e.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG2VL199867/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG2VL199867/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:40",
+      "last_verified": "2026-10-19T04:18:26",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -893,7 +880,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/b29c5fad499a.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Suburban-High_Country-1GNS6GK89VR106816/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Suburban-High_Country-1GNS6GK89VR106816/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:51",
+      "last_verified": "2026-10-19T04:18:36",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -906,7 +893,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a7a70a858757.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-RS-1GNEVLKS8VJ166363/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-RS-1GNEVLKS8VJ166363/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:41:58",
+      "last_verified": "2026-10-19T04:18:48",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
