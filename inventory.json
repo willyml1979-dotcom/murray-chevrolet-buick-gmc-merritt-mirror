@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Chevrolet Buick Gmc Merritt",
-  "generated_at": "2026-10-20T21:21:03",
+  "generated_at": "2026-10-21T15:07:49",
   "vehicle_count": 76,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -412,7 +412,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/f29e717062f9.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-2GC4KTEYXT1246395/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-2GC4KTEYXT1246395/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:38:12",
+      "last_verified": "2026-10-21T15:05:16",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -581,7 +581,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/30631afbffc6.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGED1TG411367/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGED1TG411367/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:38:21",
+      "last_verified": "2026-10-21T15:05:24",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -594,7 +594,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/654e5a9ab03d.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ393060/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ393060/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:38:33",
+      "last_verified": "2026-10-21T15:05:35",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -607,7 +607,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/0b45109f06a0.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG525550/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG525550/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:38:46",
+      "last_verified": "2026-10-21T15:05:44",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -620,7 +620,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/8549fe9e53c8.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED6TZ426119/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED6TZ426119/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:38:55",
+      "last_verified": "2026-10-21T15:05:54",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -628,12 +628,12 @@
     {
       "name": "New2026GMCSierra 15004WDPro",
       "vin": "1GTUUAED8TZ373956",
-      "stock": "BUICK",
+      "stock": "GT39562",
       "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/d65c4656ce7e.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED8TZ373956/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED8TZ373956/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:39:06",
+      "last_verified": "2026-10-21T15:06:03",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -646,7 +646,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/cfd790dd2fdf.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY2TF215212/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY2TF215212/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:39:16",
+      "last_verified": "2026-10-21T15:06:13",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -659,7 +659,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a59e24aadc42.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF215414/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF215414/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:39:27",
+      "last_verified": "2026-10-21T15:06:26",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -672,7 +672,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/e2fc205f915e.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USEY3TF320463/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USEY3TF320463/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:39:36",
+      "last_verified": "2026-10-21T15:06:38",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -685,7 +685,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/1eaaffdfa8de.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_%2ADIESEL_%7C_ALLOYS_%7C_LONG_BOX%2A-1GT5USEY1TF332969/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_%2ADIESEL_%7C_ALLOYS_%7C_LONG_BOX%2A-1GT5USEY1TF332969/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:39:47",
+      "last_verified": "2026-10-21T15:06:48",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -698,7 +698,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/dc682978db57.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_*DIESEL_|_ALLOYS_|_LONG_BOX*-1GT5USEY1TF332969/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_*DIESEL_|_ALLOYS_|_LONG_BOX*-1GT5USEY1TF332969/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:39:58",
+      "last_verified": "2026-10-21T15:07:00",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -711,7 +711,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/df634ee973ab.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY5TF350361/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY5TF350361/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:40:08",
+      "last_verified": "2026-10-21T15:07:10",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -724,7 +724,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/8a5b3f25057d.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY5TF270077/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY5TF270077/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:40:18",
+      "last_verified": "2026-10-21T15:07:20",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -737,7 +737,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/bfc242650f52.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY7TF256410/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY7TF256410/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:40:27",
+      "last_verified": "2026-10-21T15:07:33",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
@@ -763,7 +763,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/eeaf6b47d125.html",
       "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG1TL503810/",
       "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG1TL503810/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:40:37",
+      "last_verified": "2026-10-21T15:07:44",
       "condition": "new",
       "city": "Merritt",
       "province": "BC"
