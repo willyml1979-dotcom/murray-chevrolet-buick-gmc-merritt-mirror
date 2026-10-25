@@ -1,1032 +1,483 @@
 {
   "dealership": "Murray Chevrolet Buick Gmc Merritt",
-  "generated_at": "2026-10-24T21:15:24",
+  "generated_at": "2026-10-25T16:15:55",
   "vehicle_count": 79,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "Used2014Ram15004WDSport",
       "vin": "1C6RR7HT2ES340743",
-      "stock": "BUICK",
-      "color": "Black Clearcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/78db68b29a23.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2014-Ram-1500-Sport-1C6RR7HT2ES340743/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2014-Ram-1500-Sport-1C6RR7HT2ES340743/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:32",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2015DodgeDurangoAWDCitadel",
       "vin": "1C4RDJEG0FC702009",
-      "stock": "BUICK",
-      "color": "Bright White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/a7672797b55d.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2015-Dodge-Durango-Citadel-1C4RDJEG0FC702009/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2015-Dodge-Durango-Citadel-1C4RDJEG0FC702009/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:42",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2017BuickEnclaveAWDPremium",
       "vin": "5GAKVCKD8HJ197535",
-      "stock": "BUICK",
-      "color": "Iridium Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/09695e794415.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2017-Buick-Enclave-Premium-5GAKVCKD8HJ197535/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2017-Buick-Enclave-Premium-5GAKVCKD8HJ197535/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:46",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
-    },
-    {
-      "name": "Used2018FordEscapeFWDSE",
-      "vin": "1FMCU0GD8JUD52307",
-      "stock": "BUICK",
-      "color": "Shadow Black",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/b83c4b6f6213.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2018-Ford-Escape-SE-1FMCU0GD8JUD52307/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2018-Ford-Escape-SE-1FMCU0GD8JUD52307/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:37",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2020Ram1500 Classic4WDExpress",
       "vin": "3C6RR7KT0LG265005",
-      "stock": "BUICK",
-      "color": "Bright White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/e195f661a75e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2020-Ram-1500_Classic-Express-3C6RR7KT0LG265005/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2020-Ram-1500_Classic-Express-3C6RR7KT0LG265005/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:55",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
+    },
+    {
+      "name": "Used2022ChevroletSilverado 2500HD4WDCustom",
+      "vin": "1GC4YMEY7NF163748",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/caa0b3e2bd74.html",
+      "condition": "used"
     },
     {
       "name": "Used2022Ram1500 Classic4WDExpress *CREW | LOW KMS*",
       "vin": "3C6RR7KGXNG331016",
-      "stock": "BUICK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/60c0c5af0955.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2022-Ram-1500_Classic-Express_%2ACREW_%7C_LOW_KMS%2A-3C6RR7KGXNG331016/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2022-Ram-1500_Classic-Express_%2ACREW_%7C_LOW_KMS%2A-3C6RR7KGXNG331016/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:03",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2022Ram1500 Classic4WDExpress *CREW | LOW KMS*",
       "vin": "3C6RR7KGXNG331016",
-      "stock": "BUICK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/18d19cce552b.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2022-Ram-1500_Classic-Express_*CREW_|_LOW_KMS*-3C6RR7KGXNG331016/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2022-Ram-1500_Classic-Express_*CREW_|_LOW_KMS*-3C6RR7KGXNG331016/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:15",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023GMCTerrainAWDDenali",
       "vin": "3GKALXEG4PL235531",
-      "stock": "BUICK",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/c7c891ce5dc3.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-GMC-Terrain-Denali-3GKALXEG4PL235531/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-GMC-Terrain-Denali-3GKALXEG4PL235531/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:26",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023Ram35004WDBig Horn *DIESEL | LOW KMS*",
       "vin": "3C63R3HL4PG602223",
-      "stock": "BUICK",
-      "color": "Bright White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/d69cdc66c615.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Big_Horn_%2ADIESEL_%7C_LOW_KMS%2A-3C63R3HL4PG602223/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Big_Horn_%2ADIESEL_%7C_LOW_KMS%2A-3C63R3HL4PG602223/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:47",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023Ram35004WDBig Horn *DIESEL | LOW KMS*",
       "vin": "3C63R3HL4PG602223",
-      "stock": "BUICK",
-      "color": "Bright White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/5d2f2fed9fd4.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Big_Horn_*DIESEL_|_LOW_KMS*-3C63R3HL4PG602223/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Big_Horn_*DIESEL_|_LOW_KMS*-3C63R3HL4PG602223/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:57",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023Ram35004WDLaramie *DIESEL DUALLY*",
       "vin": "3C63RRJLXPG645008",
-      "stock": "BUICK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/d700fae1ca81.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_%2ADIESEL_DUALLY%2A-3C63RRJLXPG645008/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_%2ADIESEL_DUALLY%2A-3C63RRJLXPG645008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:57",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023Ram35004WDLaramie *DIESEL DUALLY*",
       "vin": "3C63RRJLXPG645008",
-      "stock": "BUICK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/9021861ab790.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_*DIESEL_DUALLY*-3C63RRJLXPG645008/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2023-Ram-3500-Laramie_*DIESEL_DUALLY*-3C63RRJLXPG645008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:54:00",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024ChevroletColorado4WD4WD Trail Boss",
       "vin": "1GCPTEEK2R1245080",
-      "stock": "BUICK",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/ffe6ef20ffb1.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK2R1245080/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK2R1245080/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:09",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024ChevroletColorado4WD4WD Z71",
       "vin": "1GCPTDEK2R1143661",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/51e490e9ff32.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Chevrolet-Colorado-4WD_Z71-1GCPTDEK2R1143661/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Chevrolet-Colorado-4WD_Z71-1GCPTDEK2R1143661/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:34",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024ChevroletSilverado 15004WDCustom Trail Boss",
       "vin": "3GCUDCEDXRG367872",
-      "stock": "BUICK",
-      "color": "Slate Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/45503879588e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUDCEDXRG367872/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUDCEDXRG367872/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:21",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024NissanRogueAWDSV Moonroof",
       "vin": "JN8BT3BB8RW424735",
-      "stock": "BUICK",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/e38a824ac363.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Nissan-Rogue-SV_Moonroof-JN8BT3BB8RW424735/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2024-Nissan-Rogue-SV_Moonroof-JN8BT3BB8RW424735/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:23",
-      "condition": "used",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "New2026BuickEnclaveAWDPreferred",
       "vin": "5GAEVAKS0TJ372871",
-      "stock": "BUICK",
-      "color": "Moonstone Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/c6a42edd7ec6.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Buick-Enclave-Preferred-5GAEVAKS0TJ372871/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Buick-Enclave-Preferred-5GAEVAKS0TJ372871/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:30:24",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
       "vin": "KL47LAE28TB265550",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/b0c692326c48.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Buick-Envista-Preferred-KL47LAE28TB265550/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Buick-Envista-Preferred-KL47LAE28TB265550/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:30:31",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletColorado4WD4WD LT",
       "vin": "1GCPTCEK4T1301189",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/9febd16e2201.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_LT-1GCPTCEK4T1301189/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_LT-1GCPTCEK4T1301189/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:48:42",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletColorado4WD4WD LT",
       "vin": "1GCPTCEK5T1340647",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/2a1a53dee1be.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_LT-1GCPTCEK5T1340647/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_LT-1GCPTCEK5T1340647/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:48:20",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletColorado4WD4WD Trail Boss",
       "vin": "1GCPTEEK7T1331380",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a0bf0942921f.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK7T1331380/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK7T1331380/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:50:12",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletColorado4WD4WD Z71 *DEMO*",
       "vin": "1GCPTDEK2T1234114",
-      "stock": "BUICK",
-      "color": "GBA/BLACK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/6dd1b8b091bf.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_%2ADEMO%2A-1GCPTDEK2T1234114/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_%2ADEMO%2A-1GCPTDEK2T1234114/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:48:53",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletColorado4WD4WD Z71 *DEMO*",
       "vin": "1GCPTDEK2T1234114",
-      "stock": "BUICK",
-      "color": "GBA/BLACK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/f3ad26a1f69e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_*DEMO*-1GCPTDEK2T1234114/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71_*DEMO*-1GCPTDEK2T1234114/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:49:04",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletEquinoxAWDAWD LT",
       "vin": "3GNAXPEG5TL519431",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/09d007927b93.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Equinox-AWD_LT-3GNAXPEG5TL519431/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Equinox-AWD_LT-3GNAXPEG5TL519431/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:49:17",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDCustom",
       "vin": "3GCPKBEK2TG453678",
-      "stock": "BUICK",
-      "color": "White Sands",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/7be14ac17a80.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK2TG453678/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK2TG453678/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:49:28",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDCustom",
       "vin": "3GCPKBEK9TG372886",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/765ec6920d1a.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK9TG372886/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK9TG372886/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:49:40",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDCustom Trail Boss",
       "vin": "3GCUKCE80TG474025",
-      "stock": "BUICK",
-      "color": "White Sands",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/d5b799d08c6e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE80TG474025/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE80TG474025/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:49:49",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDCustom Trail Boss",
       "vin": "3GCUKCED1TG318122",
-      "stock": "BUICK",
-      "color": "GAZ/SUMMIT WHITE",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/78d92704c58f.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCED1TG318122/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCED1TG318122/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:50:01",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDLT",
       "vin": "1GCUKDED7TZ445561",
-      "stock": "BUICK",
-      "color": "Red Hot",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/1e13b217f458.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-LT-1GCUKDED7TZ445561/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-LT-1GCUKDED7TZ445561/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:14",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDRST",
       "vin": "1GCUKEE89TZ304287",
-      "stock": "BUICK",
-      "color": "GAZ/SUMMIT WHITE",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/ad7d695ca447.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-1GCUKEE89TZ304287/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-1GCUKEE89TZ304287/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:23",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDRST",
       "vin": "1GCUKEED6TZ505061",
-      "stock": "BUICK",
-      "color": "GBA/BLACK",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/83688103bba9.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-1GCUKEED6TZ505061/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-1GCUKEED6TZ505061/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:32",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 15004WDRST",
       "vin": "3GCPKEEK8TG252286",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/ab6c687781ea.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCPKEEK8TG252286/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCPKEEK8TG252286/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:41",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 3500HD4WDLT",
       "vin": "1GC4KTEY2TF431033",
-      "stock": "BUICK",
-      "color": "Cypress Grey",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/9fedcfc62382.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-1GC4KTEY2TF431033/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-1GC4KTEY2TF431033/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:28:28",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletSilverado 3500HD4WDLT",
       "vin": "2GC4KTEYXT1246395",
-      "stock": "BUICK",
-      "color": "Lakeshore Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/f29e717062f9.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-2GC4KTEYXT1246395/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-2GC4KTEYXT1246395/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:05:16",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTrailblazerAWDLT",
       "vin": "KL79MRSL8TB254889",
-      "stock": "BUICK",
-      "color": "Mosaic Black Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/8d52bff710b8.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trailblazer-LT-KL79MRSL8TB254889/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trailblazer-LT-KL79MRSL8TB254889/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:50",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTrailblazerAWDRS",
       "vin": "KL79MUSL4TB282367",
-      "stock": "BUICK",
-      "color": "White Sands",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/1cb148b5da22.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trailblazer-RS-KL79MUSL4TB282367/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trailblazer-RS-KL79MUSL4TB282367/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:59",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTraxFWD1RS",
       "vin": "KL77LGE21TC209823",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/78370c26f63a.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE21TC209823/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE21TC209823/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:14:09",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTraxFWD1RS",
       "vin": "KL77LGE27TC227680",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/fa24f084c4ad.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE27TC227680/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE27TC227680/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:14:18",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTraxFWDACTIV",
       "vin": "KL77LKE23TC179422",
-      "stock": "BUICK",
-      "color": "Cacti Green",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/38c8a5fbefdb.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-ACTIV-KL77LKE23TC179422/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-ACTIV-KL77LKE23TC179422/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:14:26",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTraxFWDLT",
       "vin": "KL77LHE24TC178833",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/03b23bae9b1c.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-LT-KL77LHE24TC178833/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-LT-KL77LHE24TC178833/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:14:35",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTraxFWDLT",
       "vin": "KL77LHE24TC178878",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/03322da73cca.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-LT-KL77LHE24TC178878/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-LT-KL77LHE24TC178878/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:14:42",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026ChevroletTraxFWDLT",
       "vin": "KL77LHE25TC178663",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/e0df430553a5.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-LT-KL77LHE25TC178663/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-Chevrolet-Trax-LT-KL77LHE25TC178663/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:14:51",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCAcadiaAWDAT4",
       "vin": "1GKENPKS5TJ358051",
-      "stock": "BUICK",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/3d02e48e7b37.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Acadia-AT4-1GKENPKS5TJ358051/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Acadia-AT4-1GKENPKS5TJ358051/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:15:03",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCCanyon4WDDenali",
       "vin": "1GTP2FEK4T1333919",
-      "stock": "GT39192",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/9d7d08b93373.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Canyon-Denali-1GTP2FEK4T1333919/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Canyon-Denali-1GTP2FEK4T1333919/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:50:20",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
       "vin": "1GTP2BEK6T1298115",
-      "stock": "BUICK",
-      "color": "Rapids Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/955d484708fc.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK6T1298115/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK6T1298115/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:15:10",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4",
       "vin": "3GTUUEEL7TG424216",
-      "stock": "BUICK",
-      "color": "Coastal Dune",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/b49c2f7c79bf.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-AT4-3GTUUEEL7TG424216/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-AT4-3GTUUEEL7TG424216/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:15:18",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDDenali",
       "vin": "3GTUUGED1TG411367",
-      "stock": "BUICK",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/30631afbffc6.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGED1TG411367/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGED1TG411367/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:05:24",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "1GTUUCED3TZ393060",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/654e5a9ab03d.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ393060/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ393060/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:05:35",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "3GTUUCED0TG511999",
-      "stock": "BUICK",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/7c15a2bc6544.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED0TG511999/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED0TG511999/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T21:13:05",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "3GTUUCED2TG525550",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/0b45109f06a0.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG525550/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG525550/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:05:44",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
       "vin": "1GTUUAED6TZ426119",
-      "stock": "BUICK",
-      "color": "Coastal Dune",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/8549fe9e53c8.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED6TZ426119/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED6TZ426119/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:05:54",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
       "vin": "1GTUUAED8TZ373956",
-      "stock": "GT39562",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/d65c4656ce7e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED8TZ373956/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED8TZ373956/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:06:03",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali",
       "vin": "1GT4UWEY2TF215212",
-      "stock": "BUICK",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/cfd790dd2fdf.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY2TF215212/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY2TF215212/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:06:13",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali",
       "vin": "1GT4UWEY3TF215414",
-      "stock": "BUICK",
-      "color": "GAZ/SUMMIT WHITE",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a59e24aadc42.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF215414/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF215414/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:06:26",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
       "vin": "1GT4USEY3TF320463",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/e2fc205f915e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USEY3TF320463/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USEY3TF320463/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:06:38",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro *DIESEL | ALLOYS | LONG BOX*",
       "vin": "1GT5USEY1TF332969",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/1eaaffdfa8de.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_%2ADIESEL_%7C_ALLOYS_%7C_LONG_BOX%2A-1GT5USEY1TF332969/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_%2ADIESEL_%7C_ALLOYS_%7C_LONG_BOX%2A-1GT5USEY1TF332969/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:06:48",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro *DIESEL | ALLOYS | LONG BOX*",
       "vin": "1GT5USEY1TF332969",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/dc682978db57.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_*DIESEL_|_ALLOYS_|_LONG_BOX*-1GT5USEY1TF332969/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-Pro_*DIESEL_|_ALLOYS_|_LONG_BOX*-1GT5USEY1TF332969/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:07:00",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLE",
       "vin": "1GT4UTEY5TF350361",
-      "stock": "BUICK",
-      "color": "Coastal Dune",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/df634ee973ab.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY5TF350361/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY5TF350361/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:07:10",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLT",
       "vin": "1GT4UUEY5TF270077",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/8a5b3f25057d.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY5TF270077/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY5TF270077/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:07:20",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLT",
       "vin": "1GT4UUEY7TF256410",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/bfc242650f52.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY7TF256410/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Sierra_3500HD-SLT-1GT4UUEY7TF256410/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:07:33",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCTerrainAWDAWD AT4",
       "vin": "3GKALYEG0TL508982",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/18faf5bad7ee.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG0TL508982/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG0TL508982/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:50:28",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCTerrainAWDAWD AT4",
       "vin": "3GKALYEG1TL503810",
-      "stock": "BUICK",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/eeaf6b47d125.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG1TL503810/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_AT4-3GKALYEG1TL503810/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:07:44",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCTerrainAWDAWD Elevation",
       "vin": "3GKALUEG2TL526599",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/591fdc483834.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_Elevation-3GKALUEG2TL526599/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Terrain-AWD_Elevation-3GKALUEG2TL526599/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:28:36",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCYukon4WDElevation",
       "vin": "1GKS2BKD9TR434727",
-      "stock": "BUICK",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/af3ba6564830.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKD9TR434727/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKD9TR434727/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:28:45",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026GMCYukon XL4WDDenali",
       "vin": "1GKS2JK89TR437172",
-      "stock": "BUICK",
-      "color": "Downpour Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/c88a59f47796.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JK89TR437172/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JK89TR437172/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:28:52",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinoxAWDAWD LT",
       "vin": "3GNAXPEG1VL150666",
-      "stock": "BUICK",
-      "color": "Radiant Red Tintcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/d47256bc36e0.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG1VL150666/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG1VL150666/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:01",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinoxAWDAWD LT",
       "vin": "3GNAXPEG5VL191219",
-      "stock": "BUICK",
-      "color": "Autumn Harvest Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/1fe93ac363a5.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG5VL191219/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG5VL191219/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:08",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinoxAWDAWD RS",
       "vin": "3GNAXTEG0VL180587",
-      "stock": "BUICK",
-      "color": "Lakeshore Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/2dbce17cb9f8.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG0VL180587/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG0VL180587/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:17",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinoxAWDAWD RS",
       "vin": "3GNAXTEG1VL227237",
-      "stock": "BUICK",
-      "color": "Radiant Red Tintcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/452ddbba3898.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG1VL227237/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG1VL227237/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:50:39",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinoxAWDAWD RS",
       "vin": "3GNAXTEG2VL199867",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/353281f3354e.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG2VL199867/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG2VL199867/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:50:52",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinox EVAWDLT1 w/PCY",
       "vin": "3GN7DMRR5VS108357",
-      "stock": "BUICK",
-      "color": "Riptide Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/c88f6cc084ca.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRR5VS108357/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRR5VS108357/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:25",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletSuburban4WDHigh Country",
       "vin": "1GNS6GK89VR106816",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/b29c5fad499a.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Suburban-High_Country-1GNS6GK89VR106816/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Suburban-High_Country-1GNS6GK89VR106816/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:51:03",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletTraverseAWDRS",
       "vin": "1GNEVLKS8VJ166363",
-      "stock": "BUICK",
-      "color": "Polar White Tricoat",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a7a70a858757.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-RS-1GNEVLKS8VJ166363/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-RS-1GNEVLKS8VJ166363/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:51:14",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletTraverseAWDZ71",
       "vin": "1GNEVJKS3VJ137874",
-      "stock": "BUICK",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/cf139e90ea48.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS3VJ137874/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS3VJ137874/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:31",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027ChevroletTraverseAWDZ71",
       "vin": "1GNEVJKS7VJ129728",
-      "stock": "BUICK",
-      "color": "Polar White Tricoat",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/534efce00787.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS7VJ129728/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS7VJ129728/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:43",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027GMCTerrainAWDAWD AT4",
       "vin": "3GKALYEG1VL175646",
-      "stock": "BUICK",
-      "color": "Rapids Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/f668b50546d8.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG1VL175646/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG1VL175646/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:50",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027GMCTerrainAWDAWD AT4",
       "vin": "3GKALYEG9VL151773",
-      "stock": "BUICK",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/4b8a7f924ac4.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG9VL151773/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG9VL151773/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:29:57",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Elevation",
       "vin": "3GKALUEG0VL115771",
-      "stock": "BUICK",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/84ecedd9a68d.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG0VL115771/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG0VL115771/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:30:05",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Elevation",
       "vin": "3GKALUEG4VL166688",
-      "stock": "BUICK",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/4755e5601e65.html",
-      "source_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG4VL166688/",
-      "dealer_url": "https://www.murraygmmerritt.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG4VL166688/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:30:14",
-      "condition": "new",
-      "city": "Merritt",
-      "province": "BC"
+      "condition": "new"
     }
   ]
 }
