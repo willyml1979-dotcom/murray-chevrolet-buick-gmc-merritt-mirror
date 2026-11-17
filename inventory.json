@@ -1,14 +1,20 @@
 {
   "dealership": "Murray Chevrolet Buick Gmc Merritt",
-  "generated_at": "2026-10-26T11:07:20",
-  "vehicle_count": 79,
+  "generated_at": "2026-11-17T13:34:38",
+  "vehicle_count": 86,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "Used2014Ram15004WDSport",
+      "name": "Used2014Ram15004WDSport *LOCAL TRADE | NEW TIRES*",
       "vin": "1C6RR7HT2ES340743",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/78db68b29a23.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/a574edd02359.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2014Ram15004WDSport *LOCAL TRADE | NEW TIRES*",
+      "vin": "1C6RR7HT2ES340743",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/0f48db98ce80.html",
       "condition": "used"
     },
     {
@@ -18,9 +24,27 @@
       "condition": "used"
     },
     {
-      "name": "Used2017BuickEnclaveAWDPremium",
+      "name": "Used2017BuickEnclaveAWDPremium *LOW KMS | NO ACCIDENTS*",
       "vin": "5GAKVCKD8HJ197535",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/09695e794415.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/b8e3bf6b4cb9.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2017BuickEnclaveAWDPremium *LOW KMS | NO ACCIDENTS*",
+      "vin": "5GAKVCKD8HJ197535",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/f0a1151b8124.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018HondaCivic SedanFWDLX",
+      "vin": "2HGFC2F53JH002355",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/134e70223305.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018Ram25004WDPower Wagon",
+      "vin": "3C6TR5EJ2JG105077",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/f422e30acbb6.html",
       "condition": "used"
     },
     {
@@ -30,21 +54,33 @@
       "condition": "used"
     },
     {
-      "name": "Used2022ChevroletSilverado 2500HD4WDCustom",
+      "name": "Used2022ChevroletSilverado 15004WDLT Trail Boss",
+      "vin": "1GCPYFEL7NZ225211",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/bf34b6f98c4a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022ChevroletSilverado 2500HD4WDCustom *DIESEL | LOW LMS | NO ACCIDENTS*",
       "vin": "1GC4YMEY7NF163748",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/caa0b3e2bd74.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/71b64a12b583.html",
       "condition": "used"
     },
     {
-      "name": "Used2022Ram1500 Classic4WDExpress *CREW | LOW KMS*",
-      "vin": "3C6RR7KGXNG331016",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/60c0c5af0955.html",
+      "name": "Used2022ChevroletSilverado 2500HD4WDCustom *DIESEL | LOW LMS | NO ACCIDENTS*",
+      "vin": "1GC4YMEY7NF163748",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/23df3baff128.html",
       "condition": "used"
     },
     {
-      "name": "Used2022Ram1500 Classic4WDExpress *CREW | LOW KMS*",
-      "vin": "3C6RR7KGXNG331016",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/18d19cce552b.html",
+      "name": "Used2022ChryslerPacificaAWDTouring",
+      "vin": "2C4RC3FG4NR200364",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/1a48e646d6d8.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023ChevroletSilverado 15004WDRST",
+      "vin": "1GCUDEED2PZ198746",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/8d3cda52593e.html",
       "condition": "used"
     },
     {
@@ -54,51 +90,57 @@
       "condition": "used"
     },
     {
-      "name": "Used2023Ram35004WDBig Horn *DIESEL | LOW KMS*",
-      "vin": "3C63R3HL4PG602223",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/d69cdc66c615.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2023Ram35004WDBig Horn *DIESEL | LOW KMS*",
-      "vin": "3C63R3HL4PG602223",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/5d2f2fed9fd4.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2023Ram35004WDLaramie *DIESEL DUALLY*",
-      "vin": "3C63RRJLXPG645008",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/d700fae1ca81.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2023Ram35004WDLaramie *DIESEL DUALLY*",
-      "vin": "3C63RRJLXPG645008",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/9021861ab790.html",
-      "condition": "used"
-    },
-    {
       "name": "Used2024ChevroletColorado4WD4WD Trail Boss",
       "vin": "1GCPTEEK2R1245080",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/ffe6ef20ffb1.html",
       "condition": "used"
     },
     {
-      "name": "Used2024ChevroletColorado4WD4WD Z71",
+      "name": "Used2024ChevroletColorado4WD4WD Z71 *LOW KMS | ACCIDENT FREE*",
       "vin": "1GCPTDEK2R1143661",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/51e490e9ff32.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/8c164eb2fbe7.html",
       "condition": "used"
     },
     {
-      "name": "Used2024ChevroletSilverado 15004WDCustom Trail Boss",
-      "vin": "3GCUDCEDXRG367872",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/45503879588e.html",
+      "name": "Used2024ChevroletColorado4WD4WD Z71 *LOW KMS | ACCIDENT FREE*",
+      "vin": "1GCPTDEK2R1143661",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/db7356237e75.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024ChevroletSilverado 2500HD4WDCustom",
+      "vin": "1GC4YME77RF249526",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/622187ddff21.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordEscapeFWDPHEV",
+      "vin": "1FMCU0E13RUA54249",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/c0b0863a6566.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024GMCTerrainAWDSLE",
+      "vin": "3GKALTEG8RL344263",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/92547493cb4f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024GMCTerrainAWDSLE",
+      "vin": "3GKALTEGXRL341638",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/53409f7f67fa.html",
       "condition": "used"
     },
     {
       "name": "Used2024NissanRogueAWDSV Moonroof",
       "vin": "JN8BT3BB8RW424735",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/e38a824ac363.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025NissanRogueAWDSV Moonroof",
+      "vin": "JN8BT3BB0SW162568",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/f782919dcf7b.html",
       "condition": "used"
     },
     {
