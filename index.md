@@ -1,6 +1,6 @@
 # Murray Chevrolet Buick GMC Merritt
 
- dealership in Merritt. AI-readable inventory mirror, about 86 vehicles.
+ dealership in Merritt. AI-readable inventory mirror, about 81 vehicles.
 
 - Official website: https://www.murraygmmerritt.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/

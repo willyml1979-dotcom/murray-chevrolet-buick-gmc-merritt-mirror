@@ -7,7 +7,7 @@ Murray Chevrolet Buick GMC Merritt is a  dealership in Merritt. This site is an 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/ and https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/ (about 86 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/used/ and https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/ (about 81 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/llms.txt

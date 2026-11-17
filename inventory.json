@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Chevrolet Buick Gmc Merritt",
-  "generated_at": "2026-11-17T13:34:38",
-  "vehicle_count": 86,
+  "generated_at": "2026-11-17T16:30:40",
+  "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -265,20 +265,8 @@
     },
     {
       "name": "New2026ChevroletTraxFWD1RS",
-      "vin": "KL77LGE21TC209823",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/78370c26f63a.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletTraxFWD1RS",
       "vin": "KL77LGE27TC227680",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/fa24f084c4ad.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletTraxFWDACTIV",
-      "vin": "KL77LKE23TC179422",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/38c8a5fbefdb.html",
       "condition": "new"
     },
     {
@@ -336,18 +324,6 @@
       "condition": "new"
     },
     {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTUUCED0TG511999",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/7c15a2bc6544.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTUUCED2TG525550",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/0b45109f06a0.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026GMCSierra 15004WDPro",
       "vin": "1GTUUAED6TZ426119",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/8549fe9e53c8.html",
@@ -363,12 +339,6 @@
       "name": "New2026GMCSierra 3500HD4WDDenali",
       "vin": "1GT4UWEY2TF215212",
       "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/cfd790dd2fdf.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali",
-      "vin": "1GT4UWEY3TF215414",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/a59e24aadc42.html",
       "condition": "new"
     },
     {
@@ -498,9 +468,9 @@
       "condition": "new"
     },
     {
-      "name": "New2027GMCTerrainAWDAWD AT4",
-      "vin": "3GKALYEG1VL175646",
-      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/f668b50546d8.html",
+      "name": "New2027GMCCanyon4WDAT4",
+      "vin": "1GTP2DEE7V1115667",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-buick-gmc-merritt-mirror/new/90da285ff058.html",
       "condition": "new"
     },
     {
